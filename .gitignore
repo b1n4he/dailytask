@@ -1,0 +1,4 @@
+.env
+node_modules
+config/runner.json
+.DS_Store
